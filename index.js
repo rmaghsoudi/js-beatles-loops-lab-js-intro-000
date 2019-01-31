@@ -1,4 +1,4 @@
-function theBeatlesPlay (array1, array2) {
+function theBeatlesPlay(array1, array2) {
 
 var emptyArray = [];
 
@@ -8,7 +8,7 @@ for (let i = 0; array1.length > i; i++) {
 return emptyArray;
 }
 
-function johnLennonFacts (array) {
+function johnLennonFacts(array) {
 let newArray = []
 var n = 0;
   while (n < array.length) {
@@ -18,7 +18,7 @@ var n = 0;
 return newArray;
 }
 
-function iLoveTheBeatles (n) {
+function iLoveTheBeatles(n) {
 var emptyArray = [];
 let i = n;
 do {
