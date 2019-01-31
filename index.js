@@ -5,8 +5,8 @@ var emptyArray = [];
 for (let i = 0; array1.length > i; i++) {
   emptyArray.push(array1[i] + " plays " + array2[i])
 }
-return MyArray;
-}// add solution here
+return emptyArray;
+}
 
 function johnLennonFacts (array) {
 let newArray = []
