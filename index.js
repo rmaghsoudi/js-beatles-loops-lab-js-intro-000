@@ -19,11 +19,11 @@ return factArray;
 }
 
 function iLoveTheBeatles(n) {
-var emptyArray = [];
+var loveArray = [];
 let i = n;
 do {
-  emptyArray.push("I love the Beatles!")
+  loveArray.push("I love the Beatles!")
   i++;
 } while (i < 15);
-return emptyArray;
+return loveArray;
 }
