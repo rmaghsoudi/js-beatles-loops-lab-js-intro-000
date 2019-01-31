@@ -3,7 +3,7 @@ function theBeatlesPlay (array1, array2) {
 var emptyArray = [];
 
 for (let i = 0; array1.length > i; i++) {
-  MyArray.push(musicians[i] + " plays " + instruments[i])
+  emptyArray.push(array1[i] + " plays " + array2[i])
 }
 return MyArray;
 }// add solution here
